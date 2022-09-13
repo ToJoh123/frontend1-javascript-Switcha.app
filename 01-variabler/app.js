@@ -11,7 +11,7 @@ console.log("Detta är modulen för variabler")
 //Vi kan sedan tilldela ett värde till variabeln genom att skriva = följt av värdet
 //Vi kan sedan skriva ut värdet i konsolen genom att skriva console.log() och skriva variabelnamnet inuti parentesen
 
-//skapa en variabel med namnet name och tilldela värdet "Johan"
+//skapa en variabel med namnet name och tilldela värdet "Tom"
 let name = "Tom"
 //skriv ut värdet i konsolen
 console.log(name)
